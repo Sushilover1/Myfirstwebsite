@@ -1,0 +1,105 @@
+h2 {
+    color: #ffffff;
+    background-color: #000080;
+    border: solid;
+    border-width: 2px;
+    padding-left: 5px;
+    text-align: center;
+    font-size: 50px;
+    font-family: Verdana, Tahoma, sans-serif;
+}
+
+li {
+    background-color: cornflowerblue;
+}
+
+ol {
+    background-color: cornflowerblue;
+}
+
+.stats{
+    color: purple;
+}
+
+body {
+    background-image: url(../img/blue.png);
+    font-family: "Segoe UI", Tahoma, sans-serif;
+}
+
+header {
+    background-color: #000080;
+    color: #ffffff;
+    text-align: center;
+    font-size: 50px;
+    border: 3px solid #ffffff;
+}
+
+.navbar {
+    background-color: #FFFFFF;
+    border: solid #000080;
+    font-size: 20px;
+    position: sticky;
+    top: 0;
+}
+.navbar th {
+    border:solid #000080;
+    padding: 5px;
+    text-align: center;
+}
+
+.navbar a {
+    color: #000080;
+}
+
+footer {
+    background-color: #000080;
+    color: #ffffff;
+    font-size: 12px;
+    border: 3px solid #ffffff;
+    padding-left: 5px;
+}
+
+.profile {
+    background-color: #3E92CC;
+    text-align: center;
+}
+.dropdown {
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    color:#000080;
+    padding: 5px;
+    box-shadow: 5px 5px 10px #000080;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.active {
+    background-color: lightcoral;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+h3 {
+    color: #ffffff;
+    background-color: #000080;
+    border: solid;
+    border-width: 2px;
+    padding-left: 5px;
+    text-align: center;
+    font-size: 50px;
+    font-family: Verdana, Tahoma, sans-serif;
+}
+
+p {
+    color: #fffefe;
+}
